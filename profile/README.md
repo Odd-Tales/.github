@@ -9,7 +9,7 @@ Odd Tales is a small, remote-first independent studio based in London. We specia
 ## Games
 Our flagship game, "The Last Night," is a 2.5D cinematic platformer set in a science fiction world. Players take on the role of Charlie, a man living in a time when humanity has automated every single aspect of life, to the point that there is very little work remaining for humans. The game was revealed in 2017 and received widespread critical acclaim, and has been on preproduction since.
 
-![The Last Night Logo](TheLastNight_logo_4k.png)
+![The Last Night Logo](TheLastNight_logo_4k.jpg)
 
 ## Publications
 We're looking to publish some of our findings & technology here for you to use.
